@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Stephen Bovio! 👋
 
-<!--
-**rbovio/rbovio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a bioinformatician for the Texas Department of State Health Services. Here's a bit more about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various public health bioinformatic pipelines that analyze whole-genome sequence data.
+- 🌱 I’m currently learning back-end development using Django framework.
+- 🤔 I’m looking for help with improving my knowledge in DevOps practices.
+- 💬 Ask me about web development, pipeline architecture, and cloud technologies.
+- 📫 How to reach me: [Email](mailto:rsbovio@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rsbovio/)
+- ⚡ Fun fact: I love anything outdoors and music!
+
+## 🛠️ Technologies & Tools
+
+- Languages: Python, Bash, R
+- Frameworks/Libraries: Django, Railway
+- Databases: MySQL, PostgreSQL
+- Tools: Conda, Docker, Singularity, Git, GitHub Actions
+- Cloud: AWS
+
+## 📈 GitHub Stats
+
+![rbovio's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbovio&show_icons=true&theme=radical)
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/rsbovio/)
+
+Thanks for visiting my profile, and feel free to reach out if you want to collaborate on a project or just chat about tech!
