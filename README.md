@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a bioinformatician for the Texas Department of
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various public health bioinformatic pipelines that analyze whole-genome sequence data.
+- 🔭 I’m currently working on various public health bioinformatic pipelines that analyze food-borne bacterial and viral whole-genome sequence data.
 - 🌱 I’m currently learning back-end development using Django framework.
 - 🤔 I’m looking for help with improving my knowledge in DevOps practices.
 - 💬 Ask me about web development, pipeline architecture, and cloud technologies.
