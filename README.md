@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a bioinformatician for the Texas Department of
 
 ## 📈 GitHub Stats
 
-![rbovio's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbovio&show_icons=true&theme=radical)
+![rbovio's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbovio&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true&access_token=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)
 
 ## 📫 Let's Connect!
 
